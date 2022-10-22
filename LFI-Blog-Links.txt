@@ -1,0 +1,7 @@
+RFI/LFI Payload List
+====================
+https://hakin9.org/rfi-lfi-payload-list/
+
+LFI Tutotrial
+==============
+https://brightsec.com/blog/lfi-attack-real-life-attacks-and-attack-examples/
