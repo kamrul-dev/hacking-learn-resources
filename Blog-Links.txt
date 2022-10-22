@@ -1,0 +1,3 @@
+RFI/LFI Payload List
+====================
+https://hakin9.org/rfi-lfi-payload-list/
